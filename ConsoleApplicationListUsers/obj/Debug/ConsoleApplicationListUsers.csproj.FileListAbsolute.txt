@@ -1,0 +1,6 @@
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\bin\Debug\ConsoleApplicationListUsers.exe.config
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\bin\Debug\ConsoleApplicationListUsers.exe
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\bin\Debug\ConsoleApplicationListUsers.pdb
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\obj\Debug\ConsoleApplicationListUsers.csprojResolveAssemblyReference.cache
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\obj\Debug\ConsoleApplicationListUsers.exe
+C:\Users\jsilveira\Desktop\ConsoleApplicationListUsers\ConsoleApplicationListUsers\obj\Debug\ConsoleApplicationListUsers.pdb
